@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# projects\myBank\myBank\bin\Debug\net7.0\myBank.exe
+C:\Users\User\Desktop\C# projects\myBank\myBank\bin\Debug\net7.0\myBank.deps.json
+C:\Users\User\Desktop\C# projects\myBank\myBank\bin\Debug\net7.0\myBank.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\myBank\myBank\bin\Debug\net7.0\myBank.dll
+C:\Users\User\Desktop\C# projects\myBank\myBank\bin\Debug\net7.0\myBank.pdb
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.dll
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\refint\myBank.dll
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.pdb
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\myBank.genruntimeconfig.cache
+C:\Users\User\Desktop\C# projects\myBank\myBank\obj\Debug\net7.0\ref\myBank.dll
