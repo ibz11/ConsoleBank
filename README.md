@@ -1,18 +1,16 @@
 # ConsoleBank
 A simple console banking application buil on C# and .net7. 
 
-<h1>Uses a the Dictionary data structure to allow a user to create an account ,login,deposit,check balance and withdraw amount</h1>
+<h1>Uses  the Dictionary data structure to allow a user to create an account ,login,deposit,check balance and withdraw amount</h1>
 
 <h1>Main section</h1>
 
+![image](https://github.com/ibz11/ConsoleBank/assets/90426909/19aaca53-5099-4327-b1a9-4730d53732f5)
 <h1>Creating account</h1>
 
-![image](https://github.com/ibz11/ConsoleBank/assets/90426909/19aaca53-5099-4327-b1a9-4730d53732f5)
-
+![image](https://github.com/ibz11/ConsoleBank/assets/90426909/653220ad-a389-4ef1-ad89-102311c60d0e)
 
 <h1>Login</h1>
-
-![image](https://github.com/ibz11/ConsoleBank/assets/90426909/653220ad-a389-4ef1-ad89-102311c60d0e)
 
 ![image](https://github.com/ibz11/ConsoleBank/assets/90426909/616f6b31-947f-4b38-9534-a43073e164d4)
 
